@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
@@ -156,8 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
