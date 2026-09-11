@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
