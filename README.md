@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
