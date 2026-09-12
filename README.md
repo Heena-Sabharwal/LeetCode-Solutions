@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Quicksort
 |  |
 | ------- |
