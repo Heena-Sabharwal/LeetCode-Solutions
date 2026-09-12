@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
