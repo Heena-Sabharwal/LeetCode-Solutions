@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
