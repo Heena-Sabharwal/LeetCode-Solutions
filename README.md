@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
