@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
