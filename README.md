@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
