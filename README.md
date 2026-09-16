@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
