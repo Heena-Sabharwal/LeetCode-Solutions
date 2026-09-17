@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
