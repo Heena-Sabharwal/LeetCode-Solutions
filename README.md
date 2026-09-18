@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
