@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
