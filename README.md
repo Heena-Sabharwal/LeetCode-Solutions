@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0504-base-7](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0504-base-7) |
 ## Two Pointers
 |  |
 | ------- |
