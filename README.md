@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 ## Greedy
 |  |
 | ------- |
