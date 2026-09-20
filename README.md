@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 ## Simulation
 |  |
 | ------- |
