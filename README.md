@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 ## Simulation
 |  |
 | ------- |
