@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0645-set-mismatch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Memoization
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
