@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 ## String
 |  |
 | ------- |
