@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
