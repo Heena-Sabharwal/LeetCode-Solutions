@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
