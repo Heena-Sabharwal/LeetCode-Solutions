@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Hash Table
 |  |
 | ------- |
