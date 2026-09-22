@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
