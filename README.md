@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
