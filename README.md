@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Two Pointers
 |  |
 | ------- |
