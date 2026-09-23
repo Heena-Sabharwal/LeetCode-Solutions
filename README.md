@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0868-binary-gap) |
 ## Memoization
 |  |
 | ------- |
