@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
