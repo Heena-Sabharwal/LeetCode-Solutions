@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
