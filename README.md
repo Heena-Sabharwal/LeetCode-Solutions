@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 ## Two Pointers
 |  |
 | ------- |
