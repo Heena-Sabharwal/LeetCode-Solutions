@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 ## String
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
