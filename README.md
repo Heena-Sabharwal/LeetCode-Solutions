@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
