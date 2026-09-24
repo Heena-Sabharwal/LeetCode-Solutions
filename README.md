@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
 ## Simulation
 |  |
 | ------- |
