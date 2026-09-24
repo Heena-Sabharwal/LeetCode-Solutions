@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Simulation
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Quicksort
 |  |
 | ------- |
