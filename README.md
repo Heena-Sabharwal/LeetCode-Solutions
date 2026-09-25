@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
