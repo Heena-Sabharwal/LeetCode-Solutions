@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
