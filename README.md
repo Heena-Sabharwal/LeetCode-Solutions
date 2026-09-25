@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -515,16 +517,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Tree
 |  |
 | ------- |
@@ -751,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Hash Function
 |  |
 | ------- |
