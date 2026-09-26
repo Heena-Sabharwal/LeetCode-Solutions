@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1331-rank-transform-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1331-rank-transform-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Quicksort
 |  |
 | ------- |
