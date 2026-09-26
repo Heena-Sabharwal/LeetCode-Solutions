@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0868-binary-gap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Memoization
 |  |
 | ------- |
