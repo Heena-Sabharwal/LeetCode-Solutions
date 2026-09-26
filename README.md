@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quicksort
 |  |
 | ------- |
