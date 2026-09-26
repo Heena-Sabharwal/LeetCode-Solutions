@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
