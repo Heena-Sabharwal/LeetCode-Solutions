@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1399-count-largest-group](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 ## String
 |  |
 | ------- |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
