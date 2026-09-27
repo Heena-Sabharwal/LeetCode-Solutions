@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [1417-reformat-the-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1417-reformat-the-string) |
 ## Two Pointers
 |  |
 | ------- |
