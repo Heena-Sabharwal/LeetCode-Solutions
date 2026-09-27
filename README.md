@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1408-string-matching-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
