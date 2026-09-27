@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1436-destination-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1399-count-largest-group) |
+| [1436-destination-city](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1417-reformat-the-string) |
+| [1436-destination-city](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1436-destination-city) |
 ## Two Pointers
 |  |
 | ------- |
