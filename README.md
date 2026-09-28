@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1556-thousand-separator](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1556-thousand-separator) |
 ## Two Pointers
 |  |
 | ------- |
