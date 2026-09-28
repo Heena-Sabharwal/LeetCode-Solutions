@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Two Pointers
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
