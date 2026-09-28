@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1556-thousand-separator) |
+| [1592-rearrange-spaces-between-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 ## Two Pointers
 |  |
 | ------- |
