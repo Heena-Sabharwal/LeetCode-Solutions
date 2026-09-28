@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1556-thousand-separator) |
 | [1592-rearrange-spaces-between-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,11 +423,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
