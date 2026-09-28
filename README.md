@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1496-path-crossing](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1496-path-crossing) |
 ## String
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1496-path-crossing](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1496-path-crossing) |
 ## Two Pointers
 |  |
 | ------- |
