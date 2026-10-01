@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1640-check-array-formation-through-concatenation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## String
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Two Pointers
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Simulation
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Quicksort
 |  |
 | ------- |
