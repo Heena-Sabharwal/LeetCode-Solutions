@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Two Pointers
 |  |
 | ------- |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
