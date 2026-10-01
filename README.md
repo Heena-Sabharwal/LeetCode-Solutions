@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1640-check-array-formation-through-concatenation](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1640-check-array-formation-through-concatenation) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1640-check-array-formation-through-concatenation](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1640-check-array-formation-through-concatenation) |
 ## String
 |  |
 | ------- |
