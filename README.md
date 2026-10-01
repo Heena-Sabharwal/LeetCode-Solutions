@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
