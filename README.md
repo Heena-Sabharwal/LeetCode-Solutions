@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1496-path-crossing](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## String
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1556-thousand-separator) |
 | [1592-rearrange-spaces-between-words](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Two Pointers
 |  |
 | ------- |
