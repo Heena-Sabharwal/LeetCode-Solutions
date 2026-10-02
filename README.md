@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
