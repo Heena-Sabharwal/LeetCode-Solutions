@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
