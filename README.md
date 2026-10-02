@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1486-xor-operation-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## String
 |  |
 | ------- |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
