@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Two Pointers
 |  |
 | ------- |
