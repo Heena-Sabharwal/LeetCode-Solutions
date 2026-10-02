@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Two Pointers
 |  |
 | ------- |
