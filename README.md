@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
+| [1748-sum-of-unique-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
