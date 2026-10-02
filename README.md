@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
