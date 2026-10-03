@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
