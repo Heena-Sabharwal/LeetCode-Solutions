@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quicksort
 |  |
 | ------- |
