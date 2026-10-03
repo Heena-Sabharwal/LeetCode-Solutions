@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2103-rings-and-rods) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
