@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
