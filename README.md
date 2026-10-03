@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
