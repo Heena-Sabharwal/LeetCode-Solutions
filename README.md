@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2103-rings-and-rods](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2103-rings-and-rods) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## String
 |  |
 | ------- |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
