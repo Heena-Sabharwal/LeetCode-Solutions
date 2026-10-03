@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## String
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
