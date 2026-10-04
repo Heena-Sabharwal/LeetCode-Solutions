@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
 | ------- |
@@ -701,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quicksort
 |  |
 | ------- |
