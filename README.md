@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2399-check-distances-between-same-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2399-check-distances-between-same-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
+| [2418-sort-the-people](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+| [2418-sort-the-people](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
 | ------- |
