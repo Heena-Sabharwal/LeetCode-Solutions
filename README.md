@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Quicksort
 |  |
 | ------- |
@@ -1003,4 +1006,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
