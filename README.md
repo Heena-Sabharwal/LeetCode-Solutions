@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Number Theory
 |  |
 | ------- |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
