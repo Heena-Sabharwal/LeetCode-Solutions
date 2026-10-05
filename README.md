@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 ## Memoization
 |  |
 | ------- |
