@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
