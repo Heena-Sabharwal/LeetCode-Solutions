@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## String
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Prime Factorization
 |  |
 | ------- |
