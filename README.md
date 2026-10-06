@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Interactive
 |  |
