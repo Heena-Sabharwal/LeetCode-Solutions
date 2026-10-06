@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
+| [2716-minimize-string-length](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
+| [2716-minimize-string-length](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 ## Two Pointers
 |  |
 | ------- |
