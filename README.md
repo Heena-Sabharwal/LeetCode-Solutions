@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 ## Number Theory
 |  |
 | ------- |
