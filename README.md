@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Recursion
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2784-check-if-array-is-good](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
