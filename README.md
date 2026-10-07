@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-max-pair-sum-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
 |  |
 | ------- |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Memoization
 |  |
 | ------- |
