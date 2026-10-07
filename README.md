@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 ## Memoization
 |  |
 | ------- |
