@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0476-number-complement) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
 | ------- |
