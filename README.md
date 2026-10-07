@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## String
 |  |
 | ------- |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting Sort
 |  |
 | ------- |
