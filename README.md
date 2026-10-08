@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
