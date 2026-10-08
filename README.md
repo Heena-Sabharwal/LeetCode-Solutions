@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-find-the-k-or-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
+| [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Quicksort
 |  |
 | ------- |
