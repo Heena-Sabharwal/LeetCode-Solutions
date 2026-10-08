@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Memoization
 |  |
 | ------- |
