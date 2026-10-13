@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
