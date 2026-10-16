@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0500-keyboard-row) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
