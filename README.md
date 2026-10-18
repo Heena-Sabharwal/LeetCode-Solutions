@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0148-sort-list) |
