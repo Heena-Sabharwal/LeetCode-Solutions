@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2848-points-that-intersect-with-cars](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting Sort
