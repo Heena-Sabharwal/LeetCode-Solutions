@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0942-di-string-match](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
