@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bucket Sort
 |  |
