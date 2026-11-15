@@ -939,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1217,4 +1220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Heena-Sabharwal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
